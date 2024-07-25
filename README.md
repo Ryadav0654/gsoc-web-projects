@@ -63,12 +63,9 @@
 |45.      | [CNCF](#45-cncf)|
 |46.      | [GNOME Foundation](#46-gnome-foundation)|
 |47.      | [Chromium](#47-chromium)|
-|48.      | [Salesforce](#48-salesforce)|
-|49.      | [Shaka Player](#49-shaka-player)|
-|50.      | [JBoss Community)](#50-jboss-community)|
-<br>
 
-## 1. Processing Foundation
+
+## 1. Processing Foundation(2017-23)
 
 - p5.js Web Editor (**React**)
   <br>
@@ -86,7 +83,7 @@
   <br>
   GitHub Repo [here](https://github.com/processing/p5.js)
 
-## 2. Apache Foundation
+## 2. Apache Foundation(2016-24)
 
 - APISIX website (**React**)
   <br>
@@ -102,7 +99,7 @@
 
 More projects under Apache Foundation, info [here](https://cwiki.apache.org/confluence/display/COMDEV/GSoC+2021+Ideas+list)
 
-## 3. Wikimedia Foundation
+## 3. Wikimedia Foundation(2016-24)
 
 - Update the front-page of Wikimedia projects (**HTML, CSS, Javascript, Node.js**)
   <br>
@@ -117,7 +114,7 @@ More projects under Apache Foundation, info [here](https://cwiki.apache.org/conf
   <br>
   More info [here](https://phabricator.wikimedia.org/T262146)
 
-## 4. Rocket.chat
+## 4. Rocket.chat(2017-24)
 
 - Around 20 Projects based on (**React, JavaScript, CSS**)
   <br>
@@ -125,7 +122,7 @@ More projects under Apache Foundation, info [here](https://cwiki.apache.org/conf
   <br>
   More info (2021) [here](https://docs.rocket.chat/contributors/gsoc/google-summer-of-code-2021#project-ideas)
 
-## 5. Score Labs
+## 5. Score Labs(2016-23)
 
 - Webiu (**Javascript, React, GatsbyJS**)
   <br>
@@ -149,7 +146,7 @@ More projects under Apache Foundation, info [here](https://cwiki.apache.org/conf
 
 More Score Labs projects [here](https://scorelab.org/gsoc/)
 
-## 6. EOS Design (Python)
+## 6. EOS Design (Python)()
 
 - EOS icons react library (**React, CI, YAML**)
   <br>
@@ -171,13 +168,13 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://gitlab.com/SUSE-UIUX/eos/-/wikis/GSoC-2021-Sub-org-at-Python.org:-EOS#project-5)
 
-## 7. JdeRobot
+## 7. JdeRobot(2017-24)
 
 - Improving VisualStates (**Python and C++, HTML, JavaScript/Node.js**)
   <br>
   More info [here](https://jderobot.github.io/activities/gsoc/2021#project-5-improving-visualstates-tool-with-ros2-support-and-web-based-gui)
 
-## 8. Anita B.org
+## 8. Anita B.org(2020)
 
 - Open Source Programs (**FrontEnd: HTML, CSS, JavaScript || Backend: Django, Python**)
   <br>
@@ -189,7 +186,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://github.com/anitab-org/anitab-org.github.io/wiki/Bridge-In-Tech)
 
-## 9. Elastic
+## 9. Elastic(2018, 20)
 
 - Accessible combobox variants (**React, TypeScript**)
   <br>
@@ -203,7 +200,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://github.com/elastic/gsoc#project-3-data-sonification)
 
-## 10. Matrix
+## 10. Matrix(2016-22)
 
 - Bifrost (**Node.js, Typescript**)
   <br>
@@ -219,7 +216,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   GitHub Repo [here](https://github.com/BookBrainz/bookbrainz-site)
 
-## 12. Joplin
+## 12. Joplin(2020-24)
 
 - OCR plugin (**JavaScript, Image processing**)
   <br>
@@ -253,13 +250,13 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   Info [here](https://joplinapp.org/gsoc2021/ideas/#8-kanban-plugin)
 
-## 13. Hydra Ecosystem
+## 13. Hydra Ecosystem(2018-21)
 
 - General Improvements (**Python, React, JavaScript**)
   <br>
   GitHub Repo [here](https://github.com/HTTP-APIs/hydra-python-agent)
 
-## 14. Moira
+## 14. Moira(2019-20)
 
 - RESTify Moira’s API (**REST, JSON API, Go**)
   <br>
@@ -279,13 +276,13 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://moira.readthedocs.io/en/latest/gsoc.html#health-checks-for-delivery-channels-and-contacts)
 
-## 15. Mozilla
+## 15. Mozilla(2016-20)
 
 - Common Voice Website (**React**)
   <br>
   GitHub Repo [here](https://github.com/common-voice/common-voice)
 
-## 16. Fossology
+## 16. Fossology(2018-24)
 
 - UI Conversion Project (**React/Angular/Vue**)
   <br>
@@ -300,7 +297,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://www.fossi-foundation.org/gsoc20-ideas.html)
 
-## 18. GDevelop
+## 18. GDevelop(2020)
 
 - Revamp shortcuts/"Goto Anything" in the editor (**React.js for the editor, JavaScript**)
 - Improved Debugger and Profiler (**React**)
@@ -308,7 +305,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](http://wiki.compilgames.net/doku.php/gdevelop5/community/summer-of-code)
 
-## 19. Internet Archive
+## 19. Internet Archive(2017-24)
 
 - Chrome extension Wayback Machine (**JavaScript, UX**)
 - BookReader (**HTML, CSS, JavaScript**)
@@ -323,12 +320,12 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](More info [here](https://docs.google.com/document/d/1posF4zhq2lAz7eikloT9_K4LnHXfJ5VWGpCtJS6rJ0M/))
 
-## 20. GPAC
+## 20. GPAC(2020)
 
 - GPAC remote monitoring (**JavaScript, Web programming skills**)
 - GPAC JS APIs (**Three.js, Babylon.js**)
 
-## 21. Zulip
+## 21. Zulip(2017-24)
 
 - Web Front-End Projects (**Python, Django, JavaScript, CSS**)
   <br>
@@ -338,16 +335,16 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://zulip.readthedocs.io/en/latest/overview/gsoc-ideas.html#electron-desktop-app)
 
-## 22. MGGG
+## 22. MGGG(2020-21)
 
 - Districtr Interactive Tutorial (**HTML, CSS, JavaScript**)
 - Puzzle-mander (**HTML,CSS, JavaScript, Python, SQL**)
 
-## 23. Kubeflow
+## 23. Kubeflow(2022-24)
 
 - Hyperparameter tuner UI (**JavaScript, ES6, CSS, NPM**)
 
-## 24. Inclusive Design Institute
+## 24. Inclusive Design Institute(2016-20)
 
 - Port UIO+ Chrome Extension (**JavaScript**)
   <br>
@@ -361,7 +358,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   GitHub Repo [here](https://github.com/fluid-project/infusion-docs/)
 
-## 25. SugarLabs
+## 25. SugarLabs(2016-24)
 
 - Sugarizer Measure activity (**JavaScript, HTML5, Vue**)
   <br>
@@ -375,7 +372,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2021.md#sugarizer-security-and-availability)
 
-## 26. Performance Co-Pilot
+## 26. Performance Co-Pilot(2016-22)
 
 - Grafana Plugin (**React, TypeScript**)
   <br>
@@ -389,7 +386,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
 
 - Web Sockets (**PHP, JavaScript**)
 
-## 28. Circuit Verse
+## 28. Circuit Verse(2019-24)
 
 - Simulator (**JavaScript**)
   <br>
@@ -407,13 +404,13 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   GitHub Repo [here](https://github.com/orcasound/orcamap-react)
 
-## 31. OpenMRS
+## 31. OpenMRS(2016-24)
 
 - OpenMRS projects (**HTML, CSS, JavaScript**)
   <br>
   GitHub Repo [here](https://github.com/openmrs/openmrs-owa-sysadmin)
 
-## 32. Webpack
+## 32. Webpack(2018-19-20-24)
 
 - CLI (**JavaScript, Node.js**)
 - Webpack v5: Documentation (**JavaScript, Node.JS, Webpack**)
@@ -424,39 +421,39 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More Info [here](https://docs.google.com/document/d/14LlDCLM_l0AMGbHtylYOVGVsh0L3VPxpDHiSLRDqJ7o)
 
-## 33. Open Bioinformatics Foundation (OBF)
+## 33. Open Bioinformatics Foundation (OBF)(2016-22)
 
 - Javascript Data Visualisations (**HTML, CSS, JavaScript/React**)
   <br>
   More info [here](https://www.open-bio.org/events/gsoc/gsoc-project-ideas/)
 
-## 34. Open Genome Informatics
+## 34. Open Genome Informatics(2016-23)
 
 - Wormbase (**JavaScript, CSS, React**)
 - Phylogenetic tree viewer (**JavaScript, React**)
 - Ensembl VEP integration (**JavaScript, React**)
 - Genomic Variant Evidence Visualization (**JavaScript, React**)
 
-## 35. Open Chemistry
+## 35. Open Chemistry(2016-24)
 
-- 3Dmol.js (**JavaScript, OpenGL/WebGL**
+- 3Dmol.js (**JavaScript, OpenGL/WebGL**)
 - JavaScript version of Open Babel (**C++, JavaScript**)
   <br>
   More info [here](https://wiki.openchemistry.org/GSoC_Ideas_2021)
 
-## 36. Open EMR
+## 36. Open EMR(2020)
 
 - Various Projects (**HTML, CSS, Javascript,PHP, MySQL/MariaDB**)
   <br>
   More info [here](https://www.open-emr.org/summer-of-code/)
 
-## 37. Open CV
+## 37. Open CV(2016-24)
 
 - Open CV.js (**C++, Javascript**)
 
-## 38. Nteract (NumFocus)
+## 38. Nteract (NumFocus)(2016-24)
 
-- Nteract play app (**React, JavaScript, CSS**
+- Nteract play app (**React, JavaScript, CSS**)
   <br>
   GitHub Repo [here](https://github.com/nteract/play)
   <br>
@@ -464,14 +461,14 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
 
 - Data Explorer UI (**React, JavaScript**)
 
-## 39. Purr Data
+## 39. Purr Data(2018-24)
 
 - Skills: (**Javascript, HTML, CSS**)
   GitLab Repo [here](https://git.purrdata.net/jwilkes/purr-data)
   <br>
   More info [here](https://git.purrdata.net/jwilkes/summer-of-code-ideas-list#core-accessibility)
 
-## 40. Fossasia
+## 40. Fossasia(2017-24)(except-20,21,22,23)
 
 - SUSI AI (**HTML, Javascript, CSS, React-JS, Java**)
   <br>
@@ -483,7 +480,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   More info [here](https://fossasia.org/labs/)
 
-## 41. Owasp
+## 41. Owasp(2017-24)
 
 - Offensive Web Testing Framework-OWTF (**React**)
   <br>
@@ -493,29 +490,19 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   GitHub Repo [here](https://github.com/OWASP/BLT)
 
-## 42. SambaWiki
-
-- Samba AD deployment with Cockpit (**Python, React, CSS, HTML**)
-  <br>
-  GitHub Repo(s) [here](https://github.com/cockpit-project)
-  <br>
-  More info [here](https://wiki.samba.org/index.php/SoC/Ideas#Google_Summer_of_Code:_Suggested_Project_ideas)
-
-## 43. GraphQL Plugins
-
-## 44. Postman
+## 44. Postman(2020-24)except-2022
 
 - Newman, Collection SDK, Code Generators, Importers (**JavaScript, Node.js**)
   <br>
   More info of all 13 projects [here](https://github.com/postmanlabs/gsoc/blob/master/2021/Ideas.md)
 
-## 45. CNCF
+## 45. CNCF(2016-24)
 
 - Thanos UI Project (**React**)
   <br>
   GitHub Repo [here](https://github.com/thanos-io/thanos)
 
-## 46. GNOME Foundation
+## 46. GNOME Foundation(2016-24)
 
 - Faces of GNOME (**Jekyll, JavaScript, HTML, CSS**)
   <br>
@@ -525,7 +512,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   GitLab Repo [here](https://gitlab.gnome.org/Teams/Engagement/websites/gnome-websites-framework)
 
-## 47. Chromium
+## 47. Chromium(2021-24)
 
 - Roadmap view for chromestatus.com (**Python, JS, HTML, UI design**)
   <br>
@@ -544,36 +531,3 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
   <br>
   GitHub Repo [here](https://github.com/MahmoudAGawad/cros-diag-app)
 
-## 48. Salesforce
-
-- Design System (**React**)
-  <br>
-  GitHub Repo [here](https://github.com/salesforce/design-system-react)
-
-- Cloudsplaining (**React/Vue/Svetle, AWS**)
-  <br>
-  GitHub repo [here](https://github.com/salesforce/cloudsplaining)
-  <br>
-  More info [here](https://github.com/salesforce/gsoc#cloudsplaining--salesforcecloudsplaining)
-
-## 49. Shaka Player
-
-- Generate Typescript Type Definitions (**JavaScript/TypeScript**)
-  <br>
-  GitHub Repo [here](https://github.com/google/shaka-player)
-
-- Shaka Player HLS Enhancements
-  <br>
-  GitHub Repo [here](https://github.com/google/shaka-player)
-
-  All projects [here](https://storage.googleapis.com/wvtemp/shaka/Shaka%20Player%20GSoC%20Projects%20List.pdf)
-
-## 50. JBoss Community
-
-- Classrooms and Doubt Forum Feature in Mobile Application (**React, Javascript**)
-  <br>
-  GitHub Repo [here](https://github.com/codeforcauseorg/edu-client)
-
-- Create and Enhance APIs related to Education Platform (**Javascript, NestJS**)
-  <br>
-  GitHub Repo [here](https://github.com/codeforcauseorg/edu-server)
